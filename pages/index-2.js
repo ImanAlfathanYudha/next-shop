@@ -3,7 +3,7 @@ import Head from "next/head";
 
 //sama kayak const HomePage = () =>{}
 //sama kayak const HomePage: React.FC = () =>{}
-//Client sude
+// Client sude
 const products = [
   {
     id: 1,
